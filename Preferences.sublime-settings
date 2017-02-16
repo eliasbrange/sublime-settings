@@ -1,0 +1,56 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git",
+		"venv",
+		"env",
+		"env3",
+		"__pycache__"
+	],
+	"font_face": "Hack",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_lime": true,
+	"theme_dropdown_materialized": true,
+	"theme_icons_materialized": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_size_xs": true,
+	"theme_tabset_line_visible": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}

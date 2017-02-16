@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+@describe
+def ${1:function}():
+    f = Fixture()
+
+    @before_each
+    def setup():
+        ${2:pass}
+
+    @after_each
+    def teardown():
+        ${3:pass}
+
+    @it
+    def ${4:function}():
+        ${5:pass}
+
+    ${6}
+]]></content>
+  <tabTrigger>describe</tabTrigger>
+  <scope>source.python</scope>
+</snippet>

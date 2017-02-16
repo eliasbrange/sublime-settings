@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[@pytest.fixture(scope='module')
+def ${1:function}(${2:param}):
+    ${3:pass}
+]]></content>
+  <tabTrigger>pyfixmod</tabTrigger>
+  <scope>source.python</scope>
+</snippet>

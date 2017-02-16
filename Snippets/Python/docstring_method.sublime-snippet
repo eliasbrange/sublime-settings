@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+"""${1:Method docstring summary.}
+
+${2:Longer method description.}
+
+Args:
+    ${3:param}: ${4:param description...}
+
+${5:Raises:
+    ${6:exception}: ${7:exception description}}
+
+${8:Returns:
+    ${9:Returns...}}
+"""
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>docm</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>

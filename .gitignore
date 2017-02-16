@@ -1,0 +1,6 @@
+# Ignore package control files
+*.cache
+*.last-run
+
+# Ignore projects
+Projects

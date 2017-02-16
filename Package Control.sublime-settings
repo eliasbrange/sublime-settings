@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"All Autocomplete",
+		"AutoPEP8",
+		"Boxy Theme",
+		"ExpandRegion",
+		"Git",
+		"GitGutter",
+		"JSON Reindent",
+		"JSONLint",
+		"Markdown Preview",
+		"Package Control",
+		"Python Imports Sorter",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Themr",
+		"Tomorrow Color Schemes"
+	]
+}

@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+"""${1:Class docstring summary.}
+
+${2:Longer class description.}
+
+${3:Attributes:
+    ${4:attribute}: ${5:attribute description}}
+"""
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>docc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>

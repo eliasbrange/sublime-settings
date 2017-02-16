@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[@pytest.mark.parametrize("${1:param}", [
+    ($2),
+])
+def ${3:function}(${1:param}):
+    ${4:pass}
+]]></content>
+  <tabTrigger>pyparam</tabTrigger>
+  <scope>source.python</scope>
+</snippet>
