@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[@pytest.mark.skip]]></content>
+  <tabTrigger>pyskip</tabTrigger>
+  <scope>source.python</scope>
+</snippet>
