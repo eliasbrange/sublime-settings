@@ -22,6 +22,12 @@
     "context": [{ "key": "expand_region_soft_undo" }]
   },
 
+  // Close all tabs except active
+  {
+    "keys": ["ctrl+alt+w"],
+    "command": "close_tabs",
+  },
+
   // 1 + 2 layout
   {
     "keys": ["alt+shift+3"],

@@ -33,19 +33,24 @@
 	[
 		"Vintage"
 	],
+	"indent_to_bracket": true,
 	"rulers":
 	[
 		80
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
-	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Boxy Ocean.sublime-theme",
+	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_accent_lime": true,
+	"theme_autocomplete_item_selected_colored": true,
 	"theme_dropdown_materialized": true,
 	"theme_icons_materialized": true,
+	"theme_popup_border_visible": true,
+	"theme_quick_panel_border_visible": true,
+	"theme_quick_panel_item_selected_colored": true,
+	"theme_scrollbar_colored": true,
 	"theme_tab_arrows_hidden": true,
 	"theme_tab_selected_filled": true,
 	"theme_tab_size_xs": true,
