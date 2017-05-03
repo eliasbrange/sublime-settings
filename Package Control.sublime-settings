@@ -16,12 +16,15 @@
 		"JSONLint",
 		"Markdown Preview",
 		"Package Control",
+		"PackageResourceViewer",
 		"Python Imports Sorter",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-flake8",
 		"Themr",
+		"TodoReview",
 		"Tomorrow Color Schemes"
 	]
 }
