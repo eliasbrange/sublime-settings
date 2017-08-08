@@ -7,12 +7,12 @@ class ThemeDarkCommand(sublime_plugin.TextCommand):
         path = 'Preferences.sublime-settings'
         settings = sublime_plugin.sublime.load_settings(path)
         settings.set('color_scheme',
-                     'Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme')
+                     'Packages/gruvbox/gruvbox (Dark) (Hard).tmTheme')
         settings.set('theme',
-                     'Boxy Tomorrow.sublime-theme')
-        settings.set('theme_accent_numix',
+                     'gruvbox (Dark) (Hard).sublime-theme')
+        settings.set('gruvbox_accent_green',
                      True)
-        settings.set('theme_accent_tangerine',
+        settings.set('gruvbox_accent_orange',
                      False)
         settings = sublime_plugin.sublime.save_settings(path)
 
@@ -23,12 +23,11 @@ class ThemeLightCommand(sublime_plugin.TextCommand):
         path = 'Preferences.sublime-settings'
         settings = sublime_plugin.sublime.load_settings(path)
         settings.set('color_scheme',
-                     'Packages/User/SublimeLinter/Tomorrow (SL).tmTheme')
+                     'Packages/gruvbox/gruvbox (Light) (Hard).tmTheme')
         settings.set('theme',
-                     'Boxy Solarized Light.sublime-theme')
-        settings.set('theme_accent_numix',
+                     'gruvbox (Light) (Hard).sublime-theme')
+        settings.set('gruvbox_accent_green',
                      False)
-        settings.set('theme_accent_tangerine',
+        settings.set('gruvbox_accent_orange',
                      True)
         settings = sublime_plugin.sublime.save_settings(path)
-
