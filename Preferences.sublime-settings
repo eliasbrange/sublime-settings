@@ -36,12 +36,12 @@
 	"gruvbox_iconset_thick": true,
 	"gruvbox_sideline_autocomplete_row": true,
 	"gruvbox_sideline_autocomplete_row_thickest": true,
+	"gruvbox_tabs_autowidth": true,
 	"gruvbox_tabs_xxs": true,
 	"gruvbox_underline_active_tab": true,
 	"gruvbox_underline_active_tab_thicker": true,
 	"gruvbox_underline_modified_tabs": true,
 	"gruvbox_underline_modified_tabs_thick": true,
-	"gruvbox_tabs_autowidth": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
