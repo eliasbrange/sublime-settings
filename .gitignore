@@ -1,6 +1,7 @@
 # Ignore package control files
 *.cache
 *.last-run
+*ca-bundle
 
 # Ignore projects
 Projects
