@@ -1,0 +1,77 @@
+{
+  "debug": true,
+  "delay": 0.25,
+  "gutter_theme": "Default",
+  "lint_mode": "background",
+  "linters":
+  {
+    "annotations":
+    {
+      "@disable": false,
+      "args":
+      [
+      ],
+      "errors":
+      [
+        "FIXME"
+      ],
+      "excludes":
+      [
+      ],
+      "warnings":
+      [
+        "NOTE",
+        "README",
+        "TODO",
+        "@todo",
+        "XXX",
+        "WIP"
+      ]
+    },
+    "flake8":
+    {
+      "@disable": false,
+      "args":
+      [
+        "--ignore=D"
+      ],
+      "builtins": "",
+      "excludes":
+      [
+      ],
+      "executable": "",
+      "ignore": "",
+      "jobs": "1",
+      "max-complexity": -1,
+      "max-line-length": null,
+      "select": "",
+      "show-code": false
+    }
+  },
+  "no_column_highlights_line": false,
+  "paths":
+  {
+    "linux":
+    [
+      ""
+    ],
+    "osx":
+    [
+    ],
+    "windows":
+    [
+    ]
+  },
+  "show_marks_in_minimap": true,
+  "syntax_map":
+  {
+    "html (django)": "html",
+    "html (rails)": "html",
+    "html 5": "html",
+    "javascript (babel)": "javascript",
+    "magicpython": "python",
+    "php": "html",
+    "python django": "python",
+    "pythonimproved": "python"
+  },
+}

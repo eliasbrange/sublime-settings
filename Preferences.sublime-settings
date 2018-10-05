@@ -55,6 +55,7 @@
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
+	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "gruvbox (Dark) (Hard).sublime-theme",
