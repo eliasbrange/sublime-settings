@@ -14,11 +14,14 @@
 		"Git",
 		"GitGutter",
 		"gruvbox",
+		"Jinja2",
 		"JSON Reindent",
 		"JSONLint",
 		"Kotlin",
+		"Kubernetes Manifest autocomplete",
 		"Logstash Syntax Highlighting",
 		"Markdown Table Formatter",
+		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"nginx",
 		"Package Control",
@@ -29,9 +32,12 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-flake8",
+		"SublimeLinter-shellcheck",
 		"SysLog",
 		"Themr",
 		"TodoReview",
-		"Tomorrow Color Schemes"
+		"TOML",
+		"Tomorrow Color Schemes",
+		"TypeScript Syntax"
 	]
 }

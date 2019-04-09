@@ -2,6 +2,7 @@
 	"caret_style": "solid",
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).tmTheme",
 	"default_line_ending": "unix",
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -16,9 +17,8 @@
 		"node_modules",
 		".git",
 		"venv",
-		"env",
-		"env3",
-		"__pycache__"
+		"__pycache__",
+		".terraform"
 	],
 	"font_face": "Hack",
 	"font_options":
