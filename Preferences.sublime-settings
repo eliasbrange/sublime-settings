@@ -58,7 +58,7 @@
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "gruvbox (Dark) (Hard).sublime-theme",
+	"theme": "gruvbox.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
