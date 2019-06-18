@@ -12,6 +12,7 @@
 		"ExpandRegion",
 		"Git",
 		"GitGutter",
+		"Gofmt",
 		"GoGuru",
 		"gruvbox",
 		"Jinja2",
