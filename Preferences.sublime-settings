@@ -1,6 +1,6 @@
 {
 	"caret_style": "solid",
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).tmTheme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Light) (Hard).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
@@ -27,8 +27,8 @@
 		"no_bold"
 	],
 	"font_size": 10,
-	"gruvbox_accent_green": true,
-	"gruvbox_accent_orange": false,
+	"gruvbox_accent_green": false,
+	"gruvbox_accent_orange": true,
 	"gruvbox_autocomplete_border_thick": true,
 	"gruvbox_disable_faded_file_icons": true,
 	"gruvbox_disable_greyscale": true,

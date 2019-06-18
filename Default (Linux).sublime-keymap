@@ -47,4 +47,8 @@
     "keys": ["ctrl+k", "ctrl+]"],
     "command": "theme_light",
   },
+  {
+    "keys": ["ctrl+k", "ctrl+p"],
+    "command": "proxy_switcher",
+  },
 ]
