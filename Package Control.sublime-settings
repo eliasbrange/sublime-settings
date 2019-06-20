@@ -20,6 +20,7 @@
 		"JSONLint",
 		"Kubernetes Manifest autocomplete",
 		"Logstash Syntax Highlighting",
+		"LSP",
 		"Markdown Table Formatter",
 		"MarkdownLivePreview",
 		"MarkdownPreview",

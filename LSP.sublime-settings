@@ -1,0 +1,13 @@
+{
+	"clients":
+	{
+		"golsp":
+		{
+			"enabled": true
+		},
+		"gopls":
+		{
+			"enabled": false
+		}
+	}
+}
